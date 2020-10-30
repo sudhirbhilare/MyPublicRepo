@@ -1,5 +1,5 @@
 Steps to Run The File - 
--- This is the Java file which you can run on an VM--
+-- This is the Java file which you can run on any VM--
 
 -----START--------
 
